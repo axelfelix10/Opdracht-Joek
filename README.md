@@ -1,3 +1,0 @@
-# Opdracht-Joek
-hallo
-test
